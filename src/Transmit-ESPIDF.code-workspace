@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Transmit-ESPIDF"
+		},
+		{
+			"name": "receive-315",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
